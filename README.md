@@ -2,6 +2,21 @@
 
 Telegram bot with AI responses powered by OpenAI.
 
+## Demo
+
+Example conversation with the bot:
+
+User:
+/ask What is Python?
+
+Bot:
+Python is a popular programming language used for automation, web development, AI, and more.
+
+User:
+/ask Explain artificial intelligence in simple words
+
+Bot:
+Artificial Intelligence (AI) is when computers are designed to think and learn in ways similar to humans.
 ## Features
 
 - Telegram bot using aiogram
