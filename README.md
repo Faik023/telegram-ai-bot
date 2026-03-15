@@ -1,6 +1,6 @@
 # Telegram AI Persona Bot
 
-Telegram bot with AI responses powered by OpenAI.
+AI-powered Telegram bot built with Python and OpenAI API.
 
 ## Demo
 
