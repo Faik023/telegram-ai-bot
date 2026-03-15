@@ -33,6 +33,20 @@ Artificial Intelligence (AI) is when computers are designed to think and learn i
 - python-dotenv
 - Ubuntu VPS
 
+## Quick Start
+
+Clone repository
+
+git clone https://github.com/Faik023/telegram-ai-bot.git
+
+Go to project folder
+
+cd telegram-ai-bot
+
+Install dependencies
+
+pip install -r requirements.txt
+
 ## Setup
 
 1. Install dependencies
