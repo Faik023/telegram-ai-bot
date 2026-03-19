@@ -1,4 +1,8 @@
-# Telegram AI Persona Bot
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Telegram Bot](https://img.shields.io/badge/telegram-bot-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-green)
+
+# Telegram AI Persona Bot#
 
 AI-powered Telegram bot built with Python and OpenAI API.
 
